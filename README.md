@@ -22,7 +22,7 @@ This repository provides learning notebooks with examples, detailed explanations
 Clone the repository:
 
 ```zsh
-git clone https://github.com/fossillearn/notebook-fossil-io.git
+git clone https://github.com/fossillogic/notebook-fossil-io.git
 cd notebook-fossil-io
 ```
 
